@@ -1,6 +1,6 @@
-package oop_lab.s356411110059.rmutsv;
+package ooplab2;
 
-public class com {
+public class TestVariable {
     public static void main(String[] args) {
 //       Integer
         int i;
@@ -19,7 +19,7 @@ public class com {
 //        String
         String s = "Hello, World";
         System.out.println(s);
-        String name = "I'm NOT";
+        String name = "I'm Sunphing";
         System.out.println(name);
         String msg = s + "  " + name;
         System.out.println(msg);
