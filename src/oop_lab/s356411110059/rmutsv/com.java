@@ -5,7 +5,7 @@ public class com {
 //       Integer
         int i;
         i = 10;
-        system.out.println("i="+i);
+        System.out.println("i="+i);
         int j = 20;
         System.out.println("j = "+j);
         System.out.println("i+j="+(i+j));
